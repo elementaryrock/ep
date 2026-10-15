@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+    int a=5,b=6,sum=0;
+    char x='m';
+    sum=a+b;
+    printf("the sum of %d and %d is %d\n",a,b,sum);
+    printf("say \"Hello\"");
+}

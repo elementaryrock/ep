@@ -1,0 +1,8 @@
+# Compiled outputs
+*.exe
+a.out
+/exp 1 - lexical analyser/lex
+
+# Common C build files
+*.o
+*.obj
